@@ -1,4 +1,5 @@
 import React from 'react'
+// Importando icono de AntDesign
 import {FireFilled} from '@ant-design/icons'
 
 const Logo = () => {

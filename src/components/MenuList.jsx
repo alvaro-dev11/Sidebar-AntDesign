@@ -1,4 +1,6 @@
+// Importando Componente Menu de AntDesign
 import { Menu } from "antd";
+// Importando iconos de AntDesign
 import { HomeOutlined, BarsOutlined } from "@ant-design/icons";
 
 const MenuList = ({darkTheme}) => {

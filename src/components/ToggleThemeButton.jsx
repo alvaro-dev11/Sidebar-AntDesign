@@ -1,5 +1,7 @@
 import React from "react";
+// Importando Componente Button de AntDesign
 import { Button } from "antd";
+// Importando iconos de AntDesign
 import { HiOutlineSun, HiOutlineMoon } from "react-icons/hi";
 
 const ToggleThemeButton = ({ darktheme, toggleTheme }) => {
